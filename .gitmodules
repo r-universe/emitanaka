@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "edibble"]
+	path = edibble
+	url = https://github.com/emitanaka/edibble
+[submodule "nestr"]
+	path = nestr
+	url = https://github.com/emitanaka/nestr
