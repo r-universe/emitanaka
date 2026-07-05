@@ -1,13 +1,49 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/emitanaka/emitanaka.r-universe.dev
 	branch = HEAD
+[submodule "anicon"]
+	path = anicon
+	url = https://github.com/emitanaka/anicon
+[submodule "canvasquiz"]
+	path = canvasquiz
+	url = https://github.com/emitanaka/canvasquiz
+[submodule "datalegreyar"]
+	path = datalegreyar
+	url = https://github.com/emitanaka/datalegreyar
+[submodule "deggust"]
+	path = deggust
+	url = https://github.com/emitanaka/deggust
+[submodule "dir"]
+	path = dir
+	url = https://github.com/emitanaka/dir
 [submodule "edibble"]
 	path = edibble
 	url = https://github.com/emitanaka/edibble
+[submodule "emend"]
+	path = emend
+	url = https://github.com/anuopensci/emend
+[submodule "granular"]
+	path = granular
+	url = https://github.com/csiro-crop-informatics/granular
+[submodule "heritable"]
+	path = heritable
+	url = https://github.com/anu-aagi/heritable
+[submodule "metaextractoR"]
+	path = metaextractoR
+	url = https://github.com/DanyangDai/metaextractoR
+[submodule "moodlequiz"]
+	path = moodlequiz
+	url = https://github.com/numbats/moodlequiz
 [submodule "nestr"]
 	path = nestr
 	url = https://github.com/emitanaka/nestr
+[submodule "shinycustomloader"]
+	path = shinycustomloader
+	url = https://github.com/emitanaka/shinycustomloader
 [submodule "smbdata"]
 	path = smbdata
 	url = https://github.com/emitanaka/smbdata
+[submodule "yowie"]
+	path = yowie
+	url = https://github.com/numbats/yowie
